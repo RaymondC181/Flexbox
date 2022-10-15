@@ -22,3 +22,10 @@ body {
   width: 150px;
   font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif ;
 }
+
+.container{
+  display: flex;
+  flex-direction: row;
+  justify-content: center ;
+  column-gap: 100px;
+}

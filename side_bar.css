@@ -13,3 +13,9 @@ body{
   font-weight: bold;
   font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif ;
 }
+
+.container{
+  display: flex ;
+  flex-direction: column;
+  gap: 175px;
+}
